@@ -16,7 +16,8 @@ While working on this, the focus was mainly on creating a clean UI and making th
 ## Tech Used
 
 * React
-* Vite
+* Vite 8
+* tailwind css
 * JavaScript
 * HTML & CSS
 
@@ -25,19 +26,13 @@ While working on this, the focus was mainly on creating a clean UI and making th
 Clone the repository:
 
 ```bash
-git clone https://github.com/majumaderhrithik/-majumaderhrithik-B13-A06-digitools-platform.git
+git live server: b13-a06-digitools-platform-hrithik.netlify.app
 ```
 
 Go into the project folder:
 
 ```bash
-cd -majumaderhrithik-B13-A06-digitools-platform
-```
-
-Install dependencies:
-
-```bash
-npm install
+cd digitools-platform
 ```
 
 Start the project:
@@ -56,7 +51,7 @@ npm run build
 
 ## Notes
 
-This project was created as part of coursework/practice to improve frontend development skills.
+This project was created as part of coursework Programming Hero
 
 ## Author
 
