@@ -26,7 +26,7 @@ While working on this, the focus was mainly on creating a clean UI and making th
 Clone the repository:
 
 ```bash
-git live server: b13-a06-digitools-platform-hrithik.netlify.app
+live server: b13-a06-digitools-platform-hrithik.netlify.app
 ```
 
 Go into the project folder:
